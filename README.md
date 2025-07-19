@@ -18,13 +18,6 @@ This project is a Python-based web scraper that extracts smartphone data from [S
 - **Python 3**
 - **Selenium** (WebDriver)
 - **Pandas**
-- **OpenPyXL** (for Excel file handling)
 
 ---
 
-## 📦 Requirements
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
